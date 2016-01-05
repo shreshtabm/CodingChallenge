@@ -1,8 +1,11 @@
 # CodingChallenge
 
 Deployment target : 9.1
+
 Language : Swift
+
 Device : iPhone 6/6s
+
 3rd Party Api : Used for pie Chart
 
 Note : 
