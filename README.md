@@ -25,3 +25,5 @@ The email option is a bit buggy.
 The switch button for extra is a bit buggy.
 
 Time taken to implement : 9 hours
+
+I have not checked this in phone as I did not have access to my Developer account.
