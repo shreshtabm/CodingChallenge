@@ -8,6 +8,10 @@ Device : iPhone 6/6s
 
 3rd Party Api : Used for pie Chart
 
+username : shreshta
+
+password : qwerty
+
 Note : 
 
 AutoLayout is not used : "Was doing with AutoLayout but consumed lot of time, so left the idea of Autolayout"
